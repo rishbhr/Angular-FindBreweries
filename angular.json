@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "FindLocalBreweries"
+    }
+  },
+  "defaultProject": "FindLocalBreweries",
+  "cli": {
+    "analytics": "509d75f9-1f84-43d3-8705-8e41d2f25862"
+  }
 }
